@@ -5,6 +5,7 @@ Gif Search created with Vite and TypeScript.
 URLs:
 
 https://rmaharba.github.io/Gifs-Search/
+
 https://warm-pony-43d7e5.netlify.app/
 
 Image: 
