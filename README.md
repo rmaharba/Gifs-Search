@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 
-Gif Search created with Vite.
+Gif Search created with Vite and TypeScript.
 
 https://warm-pony-43d7e5.netlify.app/
 
