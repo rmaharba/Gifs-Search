@@ -2,7 +2,7 @@
 
 Gif Search created with Vite.
 
-URL: https://warm-pony-43d7e5.netlify.app/
+https://warm-pony-43d7e5.netlify.app/
 
 Image: 
 
