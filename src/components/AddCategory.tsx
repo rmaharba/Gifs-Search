@@ -20,7 +20,7 @@ export const AddCategory = ({ onAddCategory }: AddCategoryProps) => {
   };
 
   return (
-    <form onSubmit={onSubmitForm}>
+    <form aria-label="form" onSubmit={onSubmitForm}>
       <input
         type="text"
         value={inputValue}

@@ -8,3 +8,8 @@ export const GifGridItem = ({ title, url }: GifsArrayType) => {
     </div>
   );
 };
+
+// GifGridItem.propTypes = {
+//   title: PropTypes.string.isRequired,
+//   url: PropTypes.string.isRequired,
+// };

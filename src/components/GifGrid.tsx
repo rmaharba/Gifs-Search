@@ -6,7 +6,7 @@ import { LoadingMessage } from "./LoadingMessage";
 type GifGridTypes = { category: string };
 
 export type GifsArrayType = {
-  id: string;
+  id?: string;
   title: string;
   url: string;
 };

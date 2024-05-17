@@ -1,1 +1,1 @@
-export * from "./getGifts";
+export * from "./getGifs";
